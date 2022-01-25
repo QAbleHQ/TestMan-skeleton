@@ -1,0 +1,14 @@
+{
+  "env": "https://app.dhiwise.com/",
+  "execution_on": "local",
+  "grid_url" : "http://199.241.136.175:4444/wd/hub",
+  "platform": {
+    "platformType": "web",
+    "browser": "chrome",
+    "capabilities" : {}
+  },
+  "visual_test": {
+    "mode": "learn",
+    "assert": "soft"
+  }
+}
