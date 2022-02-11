@@ -21,24 +21,24 @@
     <dependencies>
 
         <dependency>
-            <groupId>io.unity</groupId>
-            <artifactId>framework</artifactId>
-            <version>0.0.2</version>
+            <groupId>TestMan</groupId>
+            <artifactId>framework-core</artifactId>
+            <version>0.0.3</version>
         </dependency>
         <dependency>
-            <groupId>unity</groupId>
+            <groupId>TestMan</groupId>
             <artifactId>locator-generator</artifactId>
-            <version>0.0.6</version>
+            <version>1.0.0</version>
         </dependency>
         <dependency>
-            <groupId>unity</groupId>
-            <artifactId>object_repository_generator</artifactId>
-            <version>0.0.9</version>
+            <groupId>TestMan</groupId>
+            <artifactId>Method-Generator</artifactId>
+            <version>1.0.0</version>
         </dependency>
         <dependency>
-            <groupId>unity</groupId>
+            <groupId>TestMan</groupId>
             <artifactId>image-comparision</artifactId>
-            <version>0.0.11</version>
+            <version>1.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.assertj</groupId>
@@ -49,10 +49,11 @@
 
 
         <dependency>
-            <groupId>unity</groupId>
-            <artifactId>autoweb-core</artifactId>
-            <version>0.0.5.10</version>
+            <groupId>TestMan</groupId>
+            <artifactId>auto-core</artifactId>
+            <version>1.0.1</version>
         </dependency>
+
 
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
         <dependency>
