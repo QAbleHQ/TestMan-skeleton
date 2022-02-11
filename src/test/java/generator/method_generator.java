@@ -1,10 +1,10 @@
 package generator;
 
-import io.unity.object_generator;
+import io.unity.methodgenerator.EntryPoint;
 
 public class method_generator {
     public static void main(String[] args) {
-        object_generator generator = new object_generator();
+        EntryPoint generator = new EntryPoint();
         generator.generate();
 
     }
