@@ -36,12 +36,12 @@
         <dependency>
             <groupId>TestMan</groupId>
             <artifactId>locator-generator</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </dependency>
         <dependency>
             <groupId>TestMan</groupId>
             <artifactId>Method-Generator</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.3</version>
         </dependency>
         <dependency>
             <groupId>TestMan</groupId>
@@ -59,7 +59,7 @@
         <dependency>
             <groupId>TestMan</groupId>
             <artifactId>auto-core</artifactId>
-            <version>1.0.1</version>
+            <version>2.0.5</version>
         </dependency>
 
 
